@@ -1,0 +1,30 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables & secrets
+.env
+
+# Database files
+*.db
+*.sqlite3
+
+# Log files
+*.log
+victim.log
+
+# Node dependencies and build folders
+node_modules/
+dist/
+frontend/node_modules/
+frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
